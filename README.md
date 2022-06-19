@@ -1,5 +1,7 @@
 # Auto-Youtube-Dislike
 
+# Status = BAD. This will dislike every page, a unintended feature. This will also only dislike after you leave the page.
+
 # How to install this script
 1. Install Tampermonkey (http://tampermonkey.net/)
 2. Click on the icon and click "Create a new script"
