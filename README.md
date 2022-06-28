@@ -1,5 +1,5 @@
 # Auto-Youtube-Dislike
-
+Please only use this on your own server, I am not responsible for anything you do with this.
 # Status = BAD. This will dislike every page, a unintended feature. This will also only dislike after you leave the page.
 
 # How to install this script
